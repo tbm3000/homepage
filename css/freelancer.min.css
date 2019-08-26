@@ -12,6 +12,16 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+
+ /* Tiago */
+
+ .skill-title {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+/* ---- */
+
  :root {
     --blue: #007bff;
     --indigo: #6610f2;
