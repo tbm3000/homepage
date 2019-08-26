@@ -24,6 +24,10 @@
     text-align: left !important;
 }
 
+.sec-strong {
+    font-weight: 600;
+}
+
 /* ---- */
 
  :root {
